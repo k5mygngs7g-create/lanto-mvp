@@ -1,1 +1,9 @@
-{"name":"Lanto – iPhone MVP","short_name":"Lanto","start_url":"./","display":"standalone","background_color":"#f6f4ee","theme_color":"#f6f4ee","description":"Anonymisiertes Lanto MVP für iPhone"}
+{
+  "name": "Lanto",
+  "short_name": "Lanto",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f4ef",
+  "theme_color": "#f5f4ef",
+  "description": "Lanto iPhone MVP"
+}
